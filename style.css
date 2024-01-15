@@ -253,6 +253,7 @@ button.bounce {
     width: 325px;
     height: 400px;
     object-fit: cover;
+    border-radius: 4%;
   }
   
   .noder .slider-scrollbar {
